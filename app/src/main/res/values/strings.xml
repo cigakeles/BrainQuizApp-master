@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Sport Quiz App</string>
+
+    <!-- Header text for the quiz [CHAR LIMIT = 20] -->
+    <string name="quiz_title">Do you lıke sports?</string>
+
+    <!-- Title body, explanation [CHAR LIMIT = 200] -->
+    <string name="title_body"></string>
+
+    <!-- Title: question 1 [CHAR LIMIT = 20] -->
+    <string name="question_1">Question 1</string>
+    <!-- Question body text 1 [CHAR LIMIT = 200] -->
+    <string name="question_body_1">Boxing matches are held in a boxing ?</string>
+    <!-- Answers a for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1a">Square</string>
+    <!-- Answers b for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1b">Ring</string>
+    <!-- Answers c for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1c">Court</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1d">Parquet</string>
+
+    <!-- Title: question 2 [CHAR LIMIT = 20] -->
+    <string name="question_2">Question 2</string>
+    <!-- Question body text 2 [CHAR LIMIT = 200] -->
+    <string name="question_body_2">The multiple Olympic-medal winning runner Usain Bolt was born in ?</string>
+    <!-- Answers a for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2a">England</string>
+    <!-- Answers b for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2b">Jamaica</string>
+    <!-- Answers c for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2c">The USA</string>
+    <!-- Answers d for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2d">Papua New Guinea</string>
+
+    <!-- Title: question 3 [CHAR LIMIT = 20] -->
+    <string name="question_3">Question 3</string>
+    <!-- Question body text 3 [CHAR LIMIT = 200] -->
+    <string name="question_body_3">Which sport did Australia's Sir Donald Bradman play ?</string>
+    <!-- Answers a for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3a">Cricket</string>
+    <!-- Answers b for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3b"> Golf</string>
+    <!-- Answers c for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3c">Tennis</string>
+
+    <!-- Title: question 4 [CHAR LIMIT = 20] -->
+    <string name="question_4">Question 4</string>
+    <!-- Question body text 4 [CHAR LIMIT = 200] -->
+    <string name="question_body_4">In which sport can you get a birdie, a bogey or a hole-in-one ?</string>
+    <!-- Answers a for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4a">Hockey</string>
+    <!-- Answers b for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4b">Golf</string>
+    <!-- Answers c for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4c">Basketball</string>
+
+    <!-- Title: question 5 [CHAR LIMIT = 20] -->
+    <string name="question_5">Question 5</string>
+    <!-- Question body text 5 [CHAR LIMIT = 200] -->
+    <string name="question_body_5">Michael Jordan spent most of his career playing for the</string>
+    <!-- Answers a for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5a">Chicago Bulls</string>
+    <!-- Answers b for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5b">San Antonio Spurs</string>
+    <!-- Answers c for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5c">LA Lakers</string>
+
+    <!-- Title: question 6 [CHAR LIMIT = 20] -->
+    <string name="question_6">Question 6</string>
+    <!-- Question body text 6 [CHAR LIMIT = 200] -->
+    <string name="question_body_6">Continue: Little Red Riding ...?</string>
+    <!-- Answers a for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6a">Dragon</string>
+    <!-- Answers b for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6b">Ape</string>
+    <!-- Answers c for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6c">Hood</string>
+
+    <!-- Title: question 7 [CHAR LIMIT = 20] -->
+    <string name="question_7">Question 7</string>
+    <!-- Question body text 7 [CHAR LIMIT = 200] -->
+    <string name="question_body_7">What is another word for feeling?</string>
+    <!-- Answers a for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7a">Happy</string>
+    <!-- Answers b for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7b">Sad</string>
+    <!-- Answers c for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7c">Emotion</string>
+
+    <!-- Title: question 8 [CHAR LIMIT = 20] -->
+    <string name="question_8">Question 8</string>
+    <!-- Question body text 8 [CHAR LIMIT = 200] -->
+    <string name="question_body_8">What is an ewe? (animal)</string>
+    <!-- Answers a for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8a">Sheep</string>
+    <!-- Answers b for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8b">Horse</string>
+    <!-- Answers c for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8c">Pig</string>
+
+    <!-- Title: question 9 [CHAR LIMIT = 20] -->
+    <string name="question_9">Question 9</string>
+    <!-- Question body text 9 [CHAR LIMIT = 200] -->
+    <string name="question_body_9">Which drink has no sugar?</string>
+    <!-- Answers a for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9a">Water</string>
+    <!-- Answers b for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9b">Coke</string>
+    <!-- Answers c for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9c">Sprite</string>
+
+    <!-- Title: question 10 [CHAR LIMIT = 20] -->
+    <string name="question_10">Question 10</string>
+    <!-- Question body text 10 [CHAR LIMIT = 200] -->
+    <string name="question_body_10">How many percent of the Earth is covered with water? (Multiple choice.)</string>
+    <!-- Answers a for Question 10 [CHAR LIMIT = 100] -->
+    <string name="answer_10a">70</string>
+    <!-- Answers b for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10b">100</string>
+    <!-- Answers c for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10c">What? Again?</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10d">38</string>
+
+    <!-- Title: question 11 [CHAR LIMIT = 20] -->
+    <string name="question_11">Question 11</string>
+    <!-- Question body text 11 [CHAR LIMIT = 200] -->
+    <string name="question_body_11">What is your name? (Do not worry, we are not going to sell your data. Just curious.)</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_11">Please type your Name here</string>
+
+    <!-- Button Submit [CHAR LIMIT = 20] -->
+    <string name="submit">Submit your answers</string>
+    <!-- Text before submit button [CHAR LIMIT = 200] -->
+    <string name="submit_text">Are you sure you done? Please click "Submit" button to show the result</string>
+    <string name="result_0_40">Jamie Vardy!</string>
+    <string name="result_50_60">Karim Benzema!</string>
+    <string name="result_70_90">Messi!</string>
+    <string name="result_90_100">C.Ronaldo!</string>
+
+</resources>
